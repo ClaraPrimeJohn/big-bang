@@ -151,14 +151,9 @@ body {
 }
 
 
-#sheldon img{
+#sheldon img, #leonard img, #howard img, #penny img, #raj img{
     height: 500px;
     width: 500px;
     margin-bottom: 10px;
 }
 
-#leonard img{
-    height: 500px;
-    width: 500px;
-    margin-bottom: 10px;
-}
